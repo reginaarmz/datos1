@@ -1,2 +1,1 @@
-# data-dictionary
-Programming Languages - Sequential Data Dictionary.
+# Programming Languages - Sequential Data Dictionary.
